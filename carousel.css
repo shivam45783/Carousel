@@ -111,3 +111,6 @@ span {
     font-weight: 500;
 }
 
+.item a {
+    color: rgb(168, 242, 217);
+}
